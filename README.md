@@ -1,4 +1,4 @@
-## DataAnalysisonCSV
+# CSVProcessor
 
 ## Overview
 This project is to parse the csv file, calculate the necessary information and export the result with a json format.
@@ -41,9 +41,7 @@ The pandas framework is used for this project.
 
 ## Execution
 
-- Please set the EXCEL_PATH variable in settings file with the absolute path of an excel file to process.
-
-- Please navigate the directory of this project and run the following command.
+- Please navigate to the directory of this project and run the following command.
 
     ```
         python3 app.py
