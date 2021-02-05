@@ -1,7 +1,7 @@
-# CSVProcessor
+ExcelProcessor
 
 ## Overview
-This project is to parse the csv file, calculate the necessary information and export the result with a json format.
+This project is to parse the csv/excel file, calculate the necessary information and export the result with a json format.
 The pandas framework is used for this project.
 
 ## Structure
@@ -46,5 +46,3 @@ The pandas framework is used for this project.
     ```
         python3 app.py
     ```
-  
-- The processing result will be in output directory.
